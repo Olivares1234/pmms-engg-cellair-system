@@ -1,0 +1,15 @@
+{
+	"short_name": "PMMS",
+	"name": "Product and Materials Monitoring",
+	"icons": [
+		{
+			"src": "product.png",
+			"type": "image/png",
+			"sizes": "200x200"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
