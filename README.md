@@ -1,5 +1,4 @@
-<p align="center"><img src="[https://user-images.githubusercontent.com/83743108/184596632-8df4915f-8464-47d3-a65f-973994e3c60f.png](https://nvksolution.com/nhung-khai-niem-nang-cao-trong-react-js/)
-" width="400"></p>
+<p align="center"><img src="https://nvksolution.com/wp-content/uploads/2019/09/reactjs-cac-khai-niem-nang-cao.png" width="400"></p>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
