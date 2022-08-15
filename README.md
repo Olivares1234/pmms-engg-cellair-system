@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.stack.imgur.com/kyKz5.png" width="400"></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="400"></p>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
