@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.vhv.rs/viewpic/TTxhmbh_react-logo-png-react-js-logo-svg-transparent/" width="400"></p>
+<p align="center"><img src="https://www.vhv.rs/viewpic/TTxhmbh_react-logo-png-react-js-logo-svg-transparent" width="400"></p>
 
 React · GitHub license npm version CircleCI Status PRs Welcome
 
