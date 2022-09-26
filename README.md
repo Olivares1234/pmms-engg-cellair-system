@@ -1,7 +1,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="400"></p>
 
 Link: http://pmms-cellair-system.cellaircorp.com
-<img src="https://user-images.githubusercontent.com/83743108/192303341-d9ca8624-ce40-4d0c-a3e2-290c0082a4a1.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/83743108/192303341-d9ca8624-ce40-4d0c-a3e2-290c0082a4a1.png" width="900" height="500">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
