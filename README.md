@@ -1,5 +1,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="400"></p>
 
+The Product Material Management System (PMMS) for Engineering is a comprehensive solution designed to streamline and optimize the management of product materials, ensuring efficient tracking and organization of essential information. This system is equipped with features that facilitate the management of various aspects of product items, including codes, specifications, descriptions, part numbers, registration dates, effectivity dates, customers, weights, required quantities, outs, units, unit prices, budget prices, suppliers & prices, remarks, as well as the ability to upload drawings, bills of materials (BOM), and costing information.
+
 Link: http://pmms-cellair-system.cellaircorp.com
 <img src="https://user-images.githubusercontent.com/83743108/192303341-d9ca8624-ce40-4d0c-a3e2-290c0082a4a1.png" width="900" height="500">
 
